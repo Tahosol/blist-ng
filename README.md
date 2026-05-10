@@ -8,7 +8,7 @@ It is in the [credit.txt](https://github.com/Tahosol/blist-ng/blob/master/credit
 
 # Usage
 
-### Raw link: https://raw.githubusercontent.com/musdx/blist/refs/heads/master/blocklist.txt
+### Raw link: https://raw.githubusercontent.com/Tahosol/blist-ng/refs/heads/master/blocklist.txt
 
 Put raw link into your pihole/adguard home filter list
 
