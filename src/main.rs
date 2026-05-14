@@ -58,7 +58,7 @@ fn filter(strings: &[String]) -> String {
     for i in filter_set.iter() {
         if i.starts_with("@@") || i.contains("/") {
             final_merge.push(i.to_string());
-        } else {
+        } else if !i.contains("|") {
             final_merge.push(format!("||{}^", i));
         }
     }
